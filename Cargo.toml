@@ -1,0 +1,7 @@
+[workspace]
+members = ["frontend", "backend"]
+resolver = "2"
+package.authors = ["Aditya Jain"]
+
+[profile.release]
+opt-level = 3
