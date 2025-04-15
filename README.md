@@ -2,6 +2,8 @@
 
 3D Collaboration.
 
+cargo r --bin insert_model // for database setup.
+
 Runs Natively.
 
 Adding files directly to sqlite database.
